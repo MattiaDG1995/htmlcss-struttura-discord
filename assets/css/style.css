@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-content{
+    justify-content:space-between
+}
+
+nav{
+    margin: auto;
+    width: 70%;
+    background-color: green;
+}
+
+.box{
+    width: 150px;
+    height: 100px;
+    background-color: red;
+}
+
+.middle{
+    width: 350px;
+    height: 100px;
+    background-color: red;
+}
+
+.cont-header{
+    margin: auto;
+    width: 50%;
+    background-color: orange;
+    width: 800px;
+    height: 650px;
+}
