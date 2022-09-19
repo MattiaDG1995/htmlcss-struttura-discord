@@ -75,3 +75,22 @@ section{
 .seconda{
     background-color: orange;
 }
+
+.container{
+    margin: auto;
+    width: 70%;
+}
+
+.colonna{
+    width: 400px;
+    height: 500px;
+    background-color: darkslateblue;
+    border: 1px solid black;
+}
+
+.end-footer{
+    margin: auto;
+    width: 70%;
+    background-color: blue;
+}
+
