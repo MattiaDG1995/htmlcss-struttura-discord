@@ -12,6 +12,11 @@
     justify-content:space-between
 }
 
+.flex-direction{
+    flex-direction:column
+}
+
+
 nav{
     margin: auto;
     width: 70%;
@@ -36,4 +41,37 @@ nav{
     background-color: orange;
     width: 800px;
     height: 650px;
+}
+
+section{
+    background-color: darkgray;
+    margin-bottom: 20px;
+}
+
+.cont-main{
+    margin: auto;
+    width: 70%;
+}
+
+
+.img, .text{
+    width: 650px;
+    height: 450px;
+    background-color: red;
+}
+
+.end-main{
+    margin: auto;
+    width: 70%;
+}
+
+.riga{
+    width: 1335px;
+    height: 450px;
+    background-color: yellowgreen;
+    margin-bottom: 10px;
+}
+
+.seconda{
+    background-color: orange;
 }
